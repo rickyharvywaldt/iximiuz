@@ -4,4 +4,3 @@
 
 sudo apt update && sudo apt install vim -y
 
-curl -sf https://labs.iximiuz.com/cli/install.sh | sh
